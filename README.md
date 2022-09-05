@@ -1,5 +1,5 @@
-# Python-Projects
-Projects that I have worked on while expanding my knowledge on the python language and its packages.
+# Personal-Projects
+Projects that I have worked on while expanding my knowledge on programming languages and their packages.
 
 Rock Paper Scissors Game:
 
